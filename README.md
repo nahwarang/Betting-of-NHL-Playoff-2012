@@ -47,3 +47,43 @@
 <code>1. _______________________________
 2. _______________________________
 3. _______________________________</code>
+##MVP
+<code>1. _______________________________
+2. _______________________________
+3. _______________________________</code>
+10p for correct no. 1, 5p for correct no. 2, 3p for correct no. 3
+
+# Playoff tree
+
+### Western conference
+_ VAN
+-------------- _ VAN/LAK
+_ LAK
+----------------------- _ VAN/LAK/STL/SJS
+_ STL
+-------------- _ STL/SJS
+_ SJS
+--------------------------------------_ VAN/LAK/STL/SJS/NSH/DET/PHX/CHI
+_ NSH
+-------------- _ NSH/DET
+_ DET
+----------------------- _ NSH/DET/PHX/CHI
+_ PHX
+-------------- _ PHX/CHI
+_ CHI
+### Eastern conference
+_ NYR
+-------------- _ NYR/OTT
+_ OTT
+----------------------- _ NYR/OTT/BOS/WSH
+_ BOS
+-------------- _ BOS/WSH
+_ WSH
+--------------------------------------_ NYR/OTT/BOS/WSH/FLA/NJD/PIT/PHY
+_ FLA
+-------------- _ FLA/NJD
+_ NJD
+----------------------- _ FLA/NJD/PIT/PHY
+_ PIT
+-------------- _ PIT/PHI
+_ PHI
