@@ -1,119 +1,120 @@
 #Players stats
 ####Most played minutes / game
-<code>1. _______________________________
-2. _______________________________
-3. _______________________________</code>
+<code>1. Ryan Suter, NSH
+2. Shea Weber, NSH
+3. Dan Girardi, NYR</code>
 
 ####Most penalty minutes
-<code>1. _______________________________
-2. _______________________________
-3. _______________________________</code>
+<code>1. Milan Lucic, BOS
+2. Maxim Lapierre, VAN
+3. Brandon Prust, NYR</code>
 ##Forwards
 ####Most goals
-<code>1. _______________________________
-2. _______________________________
-3. _______________________________</code>
+<code>1. Evgeni Malkin, PIT
+2. Marian Gaborik, NYR
+3. James Neal, PIT</code>
 ####Most assist
-<code>1. _______________________________
-2. _______________________________
-3. _______________________________</code>
+<code>1. Henrik Sedin, VAN
+2. Evgeni Malkin, PIT
+3. Sidney Crosby, PIT</code>
 ####Most points
-<code>1. _______________________________
-2. _______________________________
-3. _______________________________</code>
+<code>1. Evgeni Malkin, PIT
+2. Sidney Crosby, PIT
+3. Henrik Sedin, VAN</code>
 ####Best +/-
-<code>1. _______________________________
-2. _______________________________
-3. _______________________________</code>
+<code>1. Pavel Datsyuk, DET
+2. Patrice Bergeron, BOS
+3. Tyler Seguin, BOS</code>
 ##Defencemen
 ####Most goals
-<code>1. _______________________________
-2. _______________________________
-3. _______________________________</code>
+<code>1. Niklas Kronwall, DET
+2. Zdeno Chara, BOS
+3. Kris Letang, PIT</code>
 ####Most assist
-<code>1. _______________________________
-2. _______________________________
-3. _______________________________</code>
+<code>1. Zdeno Chara, BOS
+2. Alexander Edler, VAN
+3. Dan Boyle, SJS</code>
 ####Most points
-<code>1. _______________________________
-2. _______________________________
-3. _______________________________</code>
+<code>1. Zdeno Chara, BOS
+2. Alexander Edler, VAN
+3. Alex Pietrangelo, STL</code>
 ####Best +/-
-<code>1. _______________________________
-2. _______________________________
-3. _______________________________</code>
+<code>1. Zdeno Chara, BOS
+2. Dan Hamhuis, VAN
+3. Johnny Boychuk, BOS</code>
 ##Goalies
 ####Best saving %
-<code>1. _______________________________
-2. _______________________________
-3. _______________________________</code>
+<code>1. Brian Elliott, STL
+2. Henrik Lundqvist, NYR
+3. Cory Schneider, VAN</code>
 ##MVP
-<code>1. _______________________________
-2. _______________________________
-3. _______________________________</code>
+<code>1. Evgeni Malkin, PIT
+2. Henrik Lundqvist, NYR
+3. Pavel Datsyuk, DET</code>
+
 10p for correct no. 1, 5p for correct no. 2, 3p for correct no. 3
 
 # Playoff tree
 
 ### Western conference
-_ VAN
+4 VAN
 
--------------- _ VAN/LAK
+-------------- 4 VAN
 
-_ LAK
+2 LAK
 
------------------------ _ VAN/LAK/STL/SJS
+----------------------- 2 VAN
 
-_ STL
+3 STL
 
--------------- _ STL/SJS
+-------------- 2 SJS
 
-_ SJS
+4 SJS
 
---------------------------------------_ VAN/LAK/STL/SJS/NSH/DET/PHX/CHI
+-------------------------------------- 1 DET
 
-_ NSH
+2 NSH
 
--------------- _ NSH/DET
+-------------- 4 DET
 
-_ DET
+4 DET
 
------------------------ _ NSH/DET/PHX/CHI
+----------------------- 4 DET
 
-_ PHX
+1 PHX
 
--------------- _ PHX/CHI
+-------------- 3 CHI
 
-_ CHI
+4 CHI
 
 ### Eastern conference
 
-_ NYR
+4 NYR
 
--------------- _ NYR/OTT
+-------------- 4 NYR
 
-_ OTT
+2 OTT
 
------------------------ _ NYR/OTT/BOS/WSH
+----------------------- 2 NYR
 
-_ BOS
+4 BOS
 
--------------- _ BOS/WSH
+-------------- 3 BOS
 
-_ WSH
+1 WSH
 
---------------------------------------_ NYR/OTT/BOS/WSH/FLA/NJD/PIT/PHY
+-------------------------------------- 4 PIT
 
-_ FLA
+3 FLA
 
--------------- _ FLA/NJD
+-------------- 1 NJD
 
-_ NJD
+4 NJD
 
------------------------ _ FLA/NJD/PIT/PHY
+----------------------- 4 PIT
 
-_ PIT
+4 PIT
 
--------------- _ PIT/PHI
+-------------- 4 PIT
 
-_ PHI
+3 PHI
