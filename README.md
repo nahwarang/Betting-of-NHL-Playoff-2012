@@ -6,21 +6,21 @@
 
 ####Most penalty minutes
 <code>1. _____Shawn Thornton__________________________
-2. _____Zac Rinaldo__________________________
-3. _______Brandon Prust________________________</code>
+2. _____Brandon Prust__________________________
+3. ________Zac Rinaldo_______________________</code>
 ##Forwards
 ####Most goals
 <code>1. _______James Neal________________________
 2. _____________Marian Gaborik__________________
-3. ___________Ilya Kovalchuk____________________</code>
+3. ___________Evgeni Malkin____________________</code>
 ####Most assist
 <code>1. ________Sidney Crosby_______________________
-2. ___________Joe Thornton____________________
+2. ___________Evgeni Malkin____________________
 3. ___________Henrik Sedin____________________</code>
 ####Most points
 <code>1. _______Sidney Crosby________________________
 2. ________Pavel Datsyuk_______________________
-3. ________Tyler Seguin_______________________</code>
+3. ________Evgeni Malkin_______________________</code>
 ####Best +/-
 <code>1. _________Patrice Bergeron______________________
 2. _________Alexander Steen______________________
@@ -50,7 +50,7 @@
 ##MVP
 <code>1. ______Sidney Crosby_________________________
 2. ________Brian Elliott_______________________
-3. _________Pekka Rinne______________________</code>
+3. _________Evgeni Malkin______________________</code>
 10p for correct no. 1, 5p for correct no. 2, 3p for correct no. 3
 
 # Playoff tree
